@@ -1,0 +1,190 @@
+/* Below code is for Home.html */
+body {
+  margin: 0;
+  padding: 0;
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+  display: flex;
+  background-color: rgb(22, 22, 22);
+  color: white;
+}
+
+.N-ICON1 {
+  color: #e50914;
+  font-size: 45px;
+  position: absolute;
+  left: 130px;
+  top: 20px;
+  font-weight: bold;
+  font-family: "Bebas Neue", sans-serif;
+  letter-spacing: 5px;
+  transform: perspective(500px) rotatex(10deg);
+  padding: 0%;
+  margin: 0%;
+}
+
+
+.button1 {
+  background-color: #e50914;
+  border-radius: 5px;
+  color: white;
+  width: 80px;
+  height: 30px;
+  position: absolute;
+  right: 90px;
+  top: 50px;
+  cursor: pointer;
+  border: none;
+  outline: none;
+}
+
+.language-opt {
+  background-color: transparent;
+  color: white;
+  width: 100px;
+  height: 30px;
+  position: absolute;
+  right: 200px;
+  top: 50px;
+  border-radius: 5px;
+  cursor: pointer;
+}
+
+.language-opt2 {
+  background-color: transparent;
+  color: white;
+  width: 100px;
+  height: 30px;
+  position: absolute;
+  left: 4rem;
+  top: 167rem;
+  border-radius: 5px;
+  cursor: pointer;
+}
+
+.HEADING-1 {
+  text-align: center;
+  color: white;
+  font-weight: 900;
+  font-size: 3.5rem;
+  position: absolute;
+  top: 180px;
+  right: 16px;
+  width: 1280px;
+}
+
+.HEADING-2 {
+  text-align: center;
+  color: white;
+  font-weight: 500;
+  font-size: 1.25rem;
+  position: absolute;
+  top: 360px;
+  right: 520px;
+}
+
+.button2 {
+  background-color: #e50914;
+  border-radius: 8px;
+  color: white;
+  width: 250px;
+  height: 60px;
+  position: absolute;
+  right: 9cm;
+  top: 12cm;
+  cursor: pointer;
+  font-size: 20px;
+  border: none;
+  outline: none;
+  padding: 10px;
+}
+
+.dark-bg {
+  height: 100vh;
+  background: linear-gradient(rgba(0, 0, 0, 0.8), rgba(0, 0, 0, 0.8)),
+    url("BACK2.jpg");
+  background-size: cover;
+  background-position: center;
+  width: 100vw;
+  padding: 0px;
+  background-size: 100%;
+}
+
+.lor {
+  position: absolute;
+  top: 1000px;
+  width: 500px;
+}
+
+.input1 {
+  height: 2vh;
+  background-color: transparent;
+  border-radius: 5px;
+  border-color: aliceblue;
+  position: absolute;
+  right: 16cm;
+  top: 12cm;
+  cursor: pointer;
+  padding: 22px;
+  width: 300px;
+  color: white;
+}
+
+.shadow-box {
+  box-shadow: 0px 0px 35px 5px #521d5f;
+  background-image: linear-gradient(to bottom right ,rgb(67, 17, 90),rgb(49, 5, 70),rgb(58, 16, 16));
+  height: 18rem;
+  width: 14rem;
+  border-radius: 20px;
+  color: white;
+  padding: 15px;
+  top: 78rem;
+  font-size: medium;
+}
+
+.t-shadow {
+  box-shadow: 3px 1px 10px 1px gray;
+  width: 200px;
+  height: 270px;
+  border-radius: 0px;
+  border: 1px solid gray;
+}
+
+.HOME-M-NAME {
+  border: 1px solid gray;
+  color: white;
+  font-size: large;
+  padding: 5px;
+  border-radius: 0px;
+  text-align: center;
+}
+
+.img-div {
+  padding: 10px;
+  border-radius: 10px;
+  border: 2px solid grey;
+  width: 13rem;
+}
+
+.marq-head {
+  color: white;
+  font-size: 27px;
+  font-weight: bold;
+  width: 70%;
+}
+
+.freq-ques{
+  color: white;
+   background-color: rgb(49, 48, 48);
+      width: 70rem;
+      height: 2rem;
+      padding: 20px;
+      font-size: 25px;
+      padding-top: 24px;
+}
+
+h3{
+  font-size: x-large;
+}
+
+/* Below code is for signin.html */
+
